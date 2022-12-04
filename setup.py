@@ -8,6 +8,6 @@ setup(
     packages = find_packages(),
     install_requires = [
         # Github Private Repository
-        'Exercise5 @ git+ssh://git@github.com:akshat191/homework5.git#egg=Exercise5-0.1'
+        'Exercise5 @ git+https://github.com/akshat191/homework5.git#egg=Exercise5-0.1'
     ]
 )
